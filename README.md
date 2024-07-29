@@ -1,7 +1,5 @@
 # hospital-reception2
-مطمئناً، می‌توانم یک فایل README برای شما طراحی کنم که دستورالعمل‌های نصب و استفاده از پروژه‌ی شما را توضیح دهد. در زیر یک نمونه از فایل README به زبان انگلیسی آورده شده است:
 
-```markdown
 # Hospital Reception Project
 
 This repository contains the SQL scripts for the Hospital Reception project. The project can be installed in two ways:
@@ -48,11 +46,5 @@ This repository contains the SQL scripts for the Hospital Reception project. The
 
 ## Contact
 
-For any issues or questions, please contact [Your Name] at [Your Email].
+For any issues or questions, please contact zahra rastgoo at zrstg2021@gmail.com
 
----
-
-Feel free to customize this README as per your specific requirements.
-```
-
-لطفاً نام و اطلاعات تماس خود را در بخش "Contact" وارد کنید و در صورت نیاز، سایر بخش‌ها را به دلخواه خود تغییر دهید.
