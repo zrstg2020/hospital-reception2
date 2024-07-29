@@ -1,5 +1,6 @@
 # hospital-reception2
 
+```markdown
 # Hospital Reception Project
 
 This repository contains the SQL scripts for the Hospital Reception project. The project can be installed in two ways:
@@ -47,4 +48,5 @@ This repository contains the SQL scripts for the Hospital Reception project. The
 ## Contact
 
 For any issues or questions, please contact zahra rastgoo at zrstg2021@gmail.com
+```
 
